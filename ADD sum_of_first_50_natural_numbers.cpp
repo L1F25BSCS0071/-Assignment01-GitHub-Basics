@@ -17,6 +17,12 @@ int main() {
     for (int i = 1; i <= n; i++) {
         sum += i;
     }
+    
+int formulaSum = N * (N + 1) / 2;
+
+cout << "Sum using formula n(n+1)/2: "
+     << formulaSum << endl;
+
 
     cout << "Sum of first 50 natural numbers (loop): "
          << sum << endl;
