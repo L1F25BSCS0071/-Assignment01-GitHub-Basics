@@ -1,4 +1,11 @@
 
+/*
+ * Program    : Sum of First 50 Natural Numbers
+ * Name       : Mohid amer
+ * Reg No     : L2f25bscs0071
+ * Assignment : 01 - Getting Started with GitHub
+ */
+
 #include <iostream>
 #include <fstream>
 using namespace std;
